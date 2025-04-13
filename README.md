@@ -26,5 +26,5 @@ Este projeto automatiza a geração de relatórios mensais com dados de uma plan
 
 ```bash
 git clone https://github.com/Caua1705/Gerando-Relat-rios-PDF-via-Excel.git
-cd Gerando-Relat-rios-PDF-via-Excel
+cd Gerando-Relatorios-PDF-via-Excel
 
