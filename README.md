@@ -14,8 +14,8 @@ Este projeto automatiza a geração de relatórios mensais com dados de uma plan
 ### ▶️ Processo completo em ação:
 ![Demo do processo](./media/demo_final.gif)
 
-### 🧾 Tabelas estilizadas no template:
-![Exemplo Tabela](./media/tabela_exemplo.png)
+### 🧾 Tabela Excel com os dados brutos:
+![Dados Brutos](./media/dados_brutos.png)
 
 ### 📄 PDF Final com layout:
 ![Exemplo PDF](./media/pdf_final.png)
