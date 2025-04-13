@@ -12,13 +12,13 @@ Este projeto automatiza a geração de relatórios mensais com dados de uma plan
 ## 📸 Demonstração
 
 ### ▶️ Processo completo em ação:
-![Demo do processo](./demo_final.gif)
+![Demo do processo](./media/demo_final.gif)
 
 ### 🧾 Tabelas estilizadas no template:
-![Exemplo Tabela](./prints/tabela_exemplo.png)
+![Exemplo Tabela](./media/tabela_exemplo.png)
 
 ### 📄 PDF Final com layout:
-![Exemplo PDF](./prints/pdf_final.png)
+![Exemplo PDF](./media/pdf_final.png)
 
 ## ⚙️ Como usar
 
