@@ -1,4 +1,4 @@
-from processamento_dados import carregar_planilha,filtrar_dados,criacao_tabelas
+import processamento_dados 
 from jinja2 import FileSystemLoader,Environment
 import datetime
 import locale
@@ -6,9 +6,9 @@ locale.setlocale(locale.LC_ALL,"pt_BR.UTF-8")
 
 #Procesamento de dados:
 mes_referencia="2023-01"
-df,dir_raiz=carregar_planilha()
-df_filtrado=filtrar_dados(df,mes_referencia)
-tabelas=criacao_tabelas(df_filtrado)
+df,dir_raiz=processamento_dados.carregar_planilha()
+df_filtrado=processamento_dados.filtrar_dados(df,mes_referencia)
+tabelas=processamento_dados.criacao_tabelas(df_filtrado)
 
 #Carregando Template:
 pasta_template= dir_raiz / "templates" 
